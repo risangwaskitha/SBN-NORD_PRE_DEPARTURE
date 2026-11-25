@@ -1,0 +1,22 @@
+{
+  "name": "SBN OPS 07.02 - Pre Departure",
+  "short_name": "SBN OPS 07.02",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#1e3a8a",
+  "theme_color": "#1e3a8a",
+  "icons": [
+    {
+      "src": "LOGO%20SBN%20NORD.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "LOGO%20SBN%20NORD.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
